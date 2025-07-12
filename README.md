@@ -1,4 +1,4 @@
-# Hello Word! Eu sou Rafael Gomes 👽
+# Hello World! Eu sou Rafael Gomes 👽
 # Estudante de ADS 🌐
 # Em busca de novas experiências na área de desenvolvimento 🗺️
 
