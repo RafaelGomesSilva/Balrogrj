@@ -1,6 +1,6 @@
 <!-- 🎉 HEADER ANIMADO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=07F5DC&center=true&vCenter=true&width=800&height=80&lines=Olá+World,+meu+nome+é+Rafael+Gomes!;🧑🏿‍💻;"Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=07F5DC&center=true&vCenter=true&width=800&height=80&lines=Olá+World,+meu+nome+é+Rafael+Gomes!;🧑🏿‍💻;"Typing SVG"> 
   
 # Estudante de ADS 🌐
 # Em busca de novas experiências na área de desenvolvimento 🗺️
